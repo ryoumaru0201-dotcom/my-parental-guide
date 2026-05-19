@@ -150,8 +150,7 @@ export default function Home() {
           </div>
         </section>
 
-        // メインのコンポーネント内で、iPhone版の下あたりに以下のUIを追加します
-        {/* Androidセクション */}
+          {/* Androidセクション */}
         <section className="mt-16 border-t-2 border-dashed border-slate-300 pt-12">
           <div className="text-center mb-8">
             <span className="bg-green-500 text-white font-bold text-xs px-3 py-1 rounded-full uppercase tracking-wider">
